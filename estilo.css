@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    color:cadetblue;
+    background-color: #cfcff0;
+font: normal 15pt arial;
+
+}
+input{
+    border: none;
+    border-bottom: 1px solid rgb(131, 124, 124);
+}
+
+section{
+   background-color: rgb(252, 252, 252);
+   border-radius: 30px;
+   padding: 15px;
+   width: 500px;
+   margin: auto;
+   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.342);
+}
+div{
+    text-align: center;
+    display: table-caption;
+    height: 199px;
+}
+button{
+    margin-top: 8px;
+    margin-left: -75px;
+    border: none;
+    background-color:grey ;
+    border-radius: 3px;
+    color: white;
+    font-size: 15px;
+}
+
+footer{
+color: white;
+text-align: center;
+}
+#res{
+    display: inline;
+    letter-spacing: 1px;
+}
